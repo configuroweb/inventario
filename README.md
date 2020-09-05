@@ -7,17 +7,21 @@ Un sistema sencillo de Inventario con registro de clientes, proveedores, control
 
 Para realizar la instación en un servidor local puedes acceder a la siguiente URL
 
+https://www.configuroweb.com/sistema-de-inventario-configuroweb/
 
 Para la puesta a punto del proyecto, ya sea en un servidor local o vía web es necesario la base de datos que tiene un costo de 15 USD.
 
 Mí usuario de paypal es msevillab@gmail.com
 
+En el siguiente enlace accedes a mi whatsapp
+
+https://configuroweb.com/WhatsappMessenger
+
 A este correo me puedes escribir si te interesa y te envío la base de datos.
 
 La explicación de la puesta a punto del proyecto la explico en el vídeo a continuación:
 
-
-
+https://www.configuroweb.com/sistema-de-inventario-configuroweb/
 
 ## Requerimientos
 * PHP
